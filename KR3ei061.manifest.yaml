@@ -1,0 +1,434 @@
+canonical_identifier: bkk:krp/KR3ei061/v1
+canonical_location: https://kanripo.org/bkk/KR3ei061/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 生生寶錄
+  identifiers:
+    krp: KR3ei061
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei061.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei061_000.yaml, hash: 'sha256:96e3e96e921f7c5d7f18731bde54e00f3dbc3b0298dd08dd5c6b045845d88b89'}
+  - {seq: 1, filename: KR3ei061_001.yaml, hash: 'sha256:16556cd0a1c3beba25451f46b12305ab969db39952c33f8e0c65f3bf0bdd8eb2'}
+  - {seq: 2, filename: KR3ei061_002.yaml, hash: 'sha256:e8fe469e0948bf0a7546d853dedaa43d1642373937b9ad898a49d935bfaf5612'}
+  - {seq: 3, filename: KR3ei061_003.yaml, hash: 'sha256:757c75b48872ec5605ce7e65e7d2330565d0dbe6c2435bd880c7084d9f95f95e'}
+  - {seq: 0, filename: KR3ei061_000.yaml, hash: 'sha256:96e3e96e921f7c5d7f18731bde54e00f3dbc3b0298dd08dd5c6b045845d88b89'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei061_000.markers.yaml, hash: 'sha256:29fd362b11426d46bb8f21433642fad2b5dae1787e00dae2684bbf98ac17d354'}
+  - {seq: 1, role: markers, filename: assets/KR3ei061_001.markers.yaml, hash: 'sha256:ad723de727f78a7035563f9a41b1625af8c5fac322cf514738a927be169932e2'}
+  - {seq: 2, role: markers, filename: assets/KR3ei061_002.markers.yaml, hash: 'sha256:ad016bcbc5917a456c133e8694adfc2e3fbaca6ef9057ef5f14da76abea7d6da'}
+  - {seq: 3, role: markers, filename: assets/KR3ei061_003.markers.yaml, hash: 'sha256:5502d13f8a31e14e7fe0066aef96a41c86e6621ce6c1628f9da16a7bd5818ed1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 205
+  label: 序一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d3.h1s1
+    span:
+    - front
+    - 205
+    - 379
+  label: 序二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d4.h1s1
+    span:
+    - front
+    - 379
+    - 603
+  label: 序三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6344
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 6344
+  label: 胎前門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.d2d2
+    span:
+    - body
+    - 5
+    - 343
+  label: 十字真言
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.d2d3
+    span:
+    - body
+    - 343
+    - 466
+  label: 胎前總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.d2d4
+    span:
+    - body
+    - 466
+    - 1812
+  label: 論娠妊經脈主治及逐月養胎法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.d2d5
+    span:
+    - body
+    - 1812
+    - 2451
+  label: 胎前方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.d2d6
+    span:
+    - body
+    - 2451
+    - 5947
+  label: 逐月養胎方
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei061_jc_001-d5.d2d7
+    span:
+    - body
+    - 5947
+    - 6344
+  label: 附子癇子懸胎孕子病多而最急最可懼者莫如子癇子懸二證故特標出非掛漏也
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei061_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 3260
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei061_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 3260
+  label: 臨產門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei061_jc_002-d6.d2d2
+    span:
+    - body
+    - 5
+    - 356
+  label: 六字真言
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei061_jc_002-d6.d2d3
+    span:
+    - body
+    - 356
+    - 3260
+  label: 臨產總論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3902
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 3902
+  label: 產後門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.d2d2
+    span:
+    - body
+    - 5
+    - 488
+  label: 四字真言
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.d2d3
+    span:
+    - body
+    - 488
+    - 624
+  label: 產後總論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.d2d4
+    span:
+    - body
+    - 624
+    - 2177
+  label: 產後方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.d2d5
+    span:
+    - body
+    - 2177
+    - 2685
+  label: 論惡露不行
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.d2d6
+    span:
+    - body
+    - 2685
+    - 3246
+  label: 論惡露不止
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei061_jc_003-d7.d2d7
+    span:
+    - body
+    - 3246
+    - 3902
+  label: 血暈氣脫血風例言
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 644
+  label: 附生生外錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d8d2
+    span:
+    - body
+    - 5
+    - 644
+  label: 附方小兒科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d9.h1s1
+    span:
+    - body
+    - 644
+    - 1066
+  label: 附生生外錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d9d2
+    span:
+    - body
+    - 649
+    - 1066
+  label: 附方外科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d10.h1s1
+    span:
+    - body
+    - 1066
+    - 1169
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d11.h1s1
+    span:
+    - body
+    - 1169
+    - 1367
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12.h1s1
+    span:
+    - body
+    - 1367
+    - 7059
+  label: 附保產錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d2
+    span:
+    - body
+    - 1371
+    - 1527
+  label: 胎元
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d3
+    span:
+    - body
+    - 1527
+    - 1884
+  label: 保胎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d4
+    span:
+    - body
+    - 1884
+    - 2801
+  label: 調理孕婦諸病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d5
+    span:
+    - body
+    - 2801
+    - 2993
+  label: 半產俗名小產
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d6
+    span:
+    - body
+    - 2993
+    - 4084
+  label: 臨產
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d7
+    span:
+    - body
+    - 4084
+    - 4593
+  label: 產難
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d8
+    span:
+    - body
+    - 4593
+    - 4932
+  label: 死胎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d9
+    span:
+    - body
+    - 4932
+    - 5102
+  label: 盤腸生謂腸隨兒下也
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d10
+    span:
+    - body
+    - 5102
+    - 6097
+  label: 胞衣來遲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei061_jc_000-d12d11
+    span:
+    - body
+    - 6097
+    - 7059
+  label: 小兒初誕救護
+  type: section
+  level: 2
+hash: sha256:dd42d336828141b5bd72ff19bb52eba8b4c3fbd5d27f9bfa475b786680d71c68
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
