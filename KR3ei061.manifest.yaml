@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei061/v1
 canonical_location: https://kanripo.org/bkk/KR3ei061/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 生生寶錄
   identifiers:
@@ -17,16 +17,16 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei061_000.yaml, hash: 'sha256:04b17bda0735169f744c1ad2a4825be7ac2a5924bbf62c7b17e5d81b3ec761d1'}
-  - {seq: 1, filename: KR3ei061_001.yaml, hash: 'sha256:e926753db9bc11e2438d0a5ddea9a75cdc8a24096f01aa38e61cba5945e6ac83'}
-  - {seq: 2, filename: KR3ei061_002.yaml, hash: 'sha256:5171a5ef1e45815af533da9d1b44fd1c64c6c93c44d6b71b13588f6ebc0ee975'}
-  - {seq: 3, filename: KR3ei061_003.yaml, hash: 'sha256:2b01bdc207a0939a7b1f9be63c38ad4ca2f5f7a5a12bf6ad92b473cd891c6848'}
-  - {seq: 0, filename: KR3ei061_000.yaml, hash: 'sha256:04b17bda0735169f744c1ad2a4825be7ac2a5924bbf62c7b17e5d81b3ec761d1'}
+  - {seq: 0, filename: KR3ei061_000.yaml, hash: 'sha256:5f82ee9410c05afd2a7622357ae950b341b1cb9c2a68ce211be817c91adfada9'}
+  - {seq: 1, filename: KR3ei061_001.yaml, hash: 'sha256:6f00aa5265ce92a7630020cec2b881815f17f23add4578acb080bcb95f73211b'}
+  - {seq: 2, filename: KR3ei061_002.yaml, hash: 'sha256:cb5b20a1a8961b9b29165138aba75ebcc4e5d59df84d9274dfdfd9a3688b09a8'}
+  - {seq: 3, filename: KR3ei061_003.yaml, hash: 'sha256:c5940c9bb68d95aedf6966004ca23698e5a7c1ed446091c014bc9b6d365ae531'}
+  - {seq: 0, filename: KR3ei061_000.yaml, hash: 'sha256:5f82ee9410c05afd2a7622357ae950b341b1cb9c2a68ce211be817c91adfada9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei061_000.markers.yaml, hash: 'sha256:167d857b85435f7ced08389faddeb040aeae214e649693859d98f7d8a82adf51'}
-  - {seq: 1, role: markers, filename: assets/KR3ei061_001.markers.yaml, hash: 'sha256:26fe82dde15caf0b42e5c38b80d4686b234495278855117a8aba8bebb213252c'}
-  - {seq: 2, role: markers, filename: assets/KR3ei061_002.markers.yaml, hash: 'sha256:17110d30c25af0ae1ca75f76d65947cc29737e3de1753c593663d31241cc5359'}
-  - {seq: 3, role: markers, filename: assets/KR3ei061_003.markers.yaml, hash: 'sha256:253475a2144ac7f5fb1c7fa639f0a2fc97de107698ff2bbbb59a15dbe3fc7b67'}
+  - {seq: 0, role: markers, filename: assets/KR3ei061_000.markers.yaml, hash: 'sha256:6155c0e6849ce97370e18487aa59e7ac5ee65e6b6f47a37142f06a90dcbae972'}
+  - {seq: 1, role: markers, filename: assets/KR3ei061_001.markers.yaml, hash: 'sha256:f0877f5f00ae82b7912dcdd681ceeb8d0af2702f255ae9dfa512119cff36100b'}
+  - {seq: 2, role: markers, filename: assets/KR3ei061_002.markers.yaml, hash: 'sha256:d12b9d91d5831804037c7ef18542efd2462651873a35d852b45959113ff39f61'}
+  - {seq: 3, role: markers, filename: assets/KR3ei061_003.markers.yaml, hash: 'sha256:5489f32e214805a36fd1b92da16fb147629eab86feb0563c5dd47579f066c666'}
 table_of_contents:
 - ref:
     seq: 0
@@ -428,4 +428,7 @@ table_of_contents:
   label: 小兒初誕救護
   type: section
   level: 2
-hash: sha256:2b8a7ac2bb987ef05c5ed52b193610f160f5efe6ce00573932598c301594a763
+hash: sha256:edf550ffc2d5ba96157bcb130b9e33de7db24bf1cf9fb3dc7b065449758d7eae
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
